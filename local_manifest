@@ -3,12 +3,7 @@
    <!-- Remote -->
    	<remote  name="Maanush2004"
 		fetch="https://github.com/Maanush2004" />
-   	<remote  name="RMX1821-dev"
-		fetch="https://gitlab.com/RMX1821-dev" />
-  <remote  name="CodeBreaker08"
-		fetch="https://github.com/CodeBreaker08" />
-  <remote  name="clang"
-		fetch="https://github.com/Amritorock" />
+   	
 
    <!-- Device Trees -->
    <project path="device/realme/RMX1821" name="android_device_realme_RMX1821" revision="lineage-18.1-rmui" remote="Maanush2004" />
