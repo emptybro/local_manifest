@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
    <!-- Remote -->
-   	<remote  name="Maanush2004"
-		fetch="https://github.com/Maanush2004" />
+   	<remote  name="emptybro"
+		fetch="https://github.com/emptybro" />
    	
 
    <!-- Device Trees -->
-   <project path="device/realme/RMX1821" name="android_device_realme_RMX1821" revision="lineage-18.1-rmui" remote="Maanush2004" />
+   <project path="device/xiaomi/ysl" name="android_device_xiaomi_ysl" revision="13" remote="emptybro" />
 
 
    <!-- Kernel Source -->
-   <project path="kernel/realme/RMX1821" name="android_kernel_realme_RMX1821" revision="lineage-18.1-rmui" remote="Maanush2004" />
+   <project path="kernel/xiaomi/msm8953" name="android_kernel_xiaomi_msm8953" revision="13" remote="emptybro" />
 
    <!-- Vendor Blobs -->
-   <project path="vendor/realme/RMX1821" name="android_vendor_realme_RMX1821" revision="lineage-18.1-rmui" remote="Maanush2004" />
-
-   <!-- realme parts -->
-   <project path="packages_apps_RealmeParts" name="android_packages_apps_RealmeParts" revision="lineage-18.1" remote="Maanush2004" />
-
-
+   <project path="vendor/xiaomi/ysl" name="vendor_xiaomi_ysl" revision="13" remote="emptybro" />
 
 </manifest>
