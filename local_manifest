@@ -14,7 +14,7 @@
    <project path="kernel/xiaomi/msm8953" name="android_kernel_xiaomi_msm8953" revision="13" remote="emptybro" />
 
    <!-- Vendor Blobs -->
-   <project path="vendor/xiaomi" name="vendor_xiaomi_ysl" revision="13" remote="emptybro" />
+   <project path="vendor/xiaomi" name="android_vendor_xiaomi_ysl" revision="13" remote="emptybro" />
 
 
 </manifest>
